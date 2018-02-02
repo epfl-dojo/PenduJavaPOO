@@ -13,7 +13,7 @@ class Life {
     
     public int vie = 0;
     public Life(int vie){
-        System.out.println("Nombre de vie = " + vie);
+        System.out.println("Nombre de vies = " + vie);
         this.vie = vie;
     }
     
